@@ -8,4 +8,4 @@
 
 ### Полезные ссылки:
 
-Протокол Midea в ESPHome https://esphome.io/components/climate/midea.html
+<a href=https://esphome.io/components/climate/midea.html>Протокол Midea в ESPHome</a>
