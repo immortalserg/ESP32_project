@@ -1,0 +1,22 @@
+uart:
+  tx_pin: GPIO6
+  rx_pin: GPIO5
+  baud_rate: 9600
+
+
+climate:
+  - platform: midea
+    name: "Ballu Climate"
+    autoconf: True
+    custom_fan_modes:
+      - SILENT
+      - TURBO
+    supported_swing_modes:
+      - HORIZONTAL
+    visual:
+      min_temperature: 17 °C
+      max_temperature: 30 °C
+      temperature_step: 0.5 °C
+    beeper: True
+    outdoor_temperature:
+      name: "Outdoor Temperature"
