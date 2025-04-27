@@ -12,4 +12,6 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 ### Полезные ссылки:
 
 <a href=https://esphome.io/components/climate/midea.html>Протокол Midea в ESPHome</a> (кондеционеры Electrolux, Qlima, Artel, Carrier, Comfee, Inventor, Senville)
+<a href=https://github.com/paveldn/haier-esphome>Кондеционеры Haier в ESPHome</a>
+
 
