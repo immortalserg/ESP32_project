@@ -29,7 +29,7 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/Anat0l/hisense_acu2d>Кондеционеры TCL</a>
 
-<a href=https://github.com/Omniflux/esphome-fujitsu-halcyon>Fujitsu AirStage-H</a> - <a href=https://github.com/FOSV/Fuji-Atom-Interface>Плата преобразователь USRT-LIN</a> - <a href=https://community.home-assistant.io/t/fujitsu-ac-heat-pump-integration-via-esphome-esp32/407610?page=3>Форум ХА</a>
+<a href=https://github.com/Omniflux/esphome-fujitsu-halcyon>Fujitsu AirStage-H</a> <a href=https://github.com/FOSV/Fuji-Atom-Interface>Плата преобразователь USRT-LIN</a> <a href=https://community.home-assistant.io/t/fujitsu-ac-heat-pump-integration-via-esphome-esp32/407610?page=3>Форум ХА</a>
 
 
 
