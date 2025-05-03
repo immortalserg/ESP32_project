@@ -31,5 +31,7 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/Omniflux/esphome-fujitsu-halcyon>Fujitsu AirStage-H</a> - <a href=https://github.com/FOSV/Fuji-Atom-Interface>Плата преобразователь USRT-LIN</a> - <a href=https://community.home-assistant.io/t/fujitsu-ac-heat-pump-integration-via-esphome-esp32/407610>Форум ХА</a>
 
+## Кондеционеры с портом rs485
 
+<a href=https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus>Samsung</a>
 
