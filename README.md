@@ -35,3 +35,5 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus>Samsung</a>
 
+<a href=https://github.com/Mosibi/Midea-heat-pump-ESPHome>Тепловые насосы Midea, Airwell , Artel , Ferroli , Kaisai , Inventor , Kaysun , YORK </a>
+
