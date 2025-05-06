@@ -39,6 +39,8 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/Mosibi/Midea-heat-pump-ESPHome>Тепловые насосы Midea, Airwell , Artel , Ferroli , Kaisai , Inventor , Kaysun , YORK </a>
 
+<a href=https://github.com/Bunicutz/ESP32_Midea_RS485>Midea</a> (<a href=https://codeberg.org/xye/xye>описание протокола</a>)
+
 ## Тепловые насосы и кондеционеры HBS Home bus
 
 <a href=https://github.com/Arnold-n/P1P2MQTT>Daikin Rotex Altherna</a>
