@@ -42,3 +42,5 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 ## Тепловые насосы и кондеционеры HBS Home bus
 
 <a href=https://github.com/Arnold-n/P1P2MQTT>Daikin Rotex Altherna</a>
+
+<a href=https://github.com/Jetblack31/P1P2Serial>Daikin</a>
