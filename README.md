@@ -43,6 +43,8 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/Bunicutz/ESP32_Midea_RS485>Midea</a> (<a href=https://codeberg.org/xye/xye>описание протокола</a>)
 
+<a href=https://github.com/raomin/ESPAltherma>Altherma</a>
+
 ## Тепловые насосы и кондеционеры HBS Home bus
 
 <a href=https://github.com/Arnold-n/P1P2MQTT>Daikin Rotex Altherna</a>
