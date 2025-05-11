@@ -51,6 +51,8 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/Jetblack31/P1P2Serial>Daikin</a>
 
+<a href=https://gregdavill.com/posts/daikin-esp-001/>Daikin ESPHome</a>
+
 ## Электросчетчики RS485
 
 <a href=https://github.com/RocketFox2409/MercuryESPHome>Меркурий 200.02</a>
