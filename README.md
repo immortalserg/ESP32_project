@@ -11,6 +11,8 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 ### Полезные ссылки:
 
+## Кондеционеры с портом UART
+
 <a href=https://esphome.io/components/climate/midea.html>Протокол Midea в ESPHome</a> (кондеционеры Ballu, Electrolux, Qlima, Artel, Carrier, Comfee, Inventor, Senville)
 
 <a href=https://esphome.io/components/climate/haier>Кондеционеры Haier ESPHome</a>
@@ -46,3 +48,13 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 <a href=https://github.com/Arnold-n/P1P2MQTT>Daikin Rotex Altherna</a>
 
 <a href=https://github.com/Jetblack31/P1P2Serial>Daikin</a>
+
+## Электросчетчики RS485
+
+<a href=https://github.com/RocketFox2409/MercuryESPHome>Меркурий 200.02</a>
+
+<a href=https://github.com/mrkrasser/MercuryStats>Протокол обмена Меркурий</a>
+
+<a href=https://github.com/latonita/esphome-energomera-iec>Энергомера CE102M CE207 CE208 CE301 CE303 CE307 CE308 по RS-485 (ГОСТ МЭК/IEC 61107-2011)</a>
+
+<a href=https://github.com/latonita/esphome-dlms-cosem>Подключение EspHome к счетчикам электроэнергии по протоколу DLMS/COSEM/СПОДЭС (Энергомера CE207/CE307/CE308, Милур 107S, Мир, Нартис, РиМ, Пульсар и многие другие)</a>
