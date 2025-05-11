@@ -53,6 +53,8 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/RocketFox2409/MercuryESPHome>Меркурий 200.02</a>
 
+<a href=https://github.com/Brokly/ESPHome-Mercury230>Меркурий 230</a>
+
 <a href=https://github.com/mrkrasser/MercuryStats>Протокол обмена Меркурий</a>
 
 <a href=https://github.com/latonita/esphome-energomera-iec>Энергомера CE102M CE207 CE208 CE301 CE303 CE307 CE308 по RS-485 (ГОСТ МЭК/IEC 61107-2011)</a>
