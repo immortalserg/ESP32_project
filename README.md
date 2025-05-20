@@ -29,7 +29,7 @@ Ballu_convector.yaml - конфигурация ESPHome для Ballu конве�
 
 <a href=https://github.com/JanM321/esphome-lg-controller>LG по шине LIN</a>
 
-<a href=https://github.com/Anat0l/hisense_acu2d>Кондеционеры TCL</a>
+<a href=https://github.com/lNikazzzl/tcl_ac_esphome>Кондеционеры TCL</a>
 
 <a href=https://github.com/joshbenner/esphome-daikin-s21>Кондеционеры Daikin</a>
 
